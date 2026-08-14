@@ -1,26 +1,26 @@
 version=1
 id=3004064681
 title=Show Container Contents On Hover
-description=Hover over any square in the world to see the contents of its containers displayed in a panel.
-description=
-description=Simply toggle the 'hover to show contents' tickbox on any container inventory to activate its effect.
-description=
-description=[hr][/hr]
-description=[b]Instructions:[/b]
-description=[list]
-description=    [*]For those that like to keep the contents of new containers a surprise, this feature can be 'opted in' on an individual basis! 
-description=
-description=    [*]For those that would prefer to harness an all-seeing power, there is a tickbox on the player's inventory that acts as an 'override'. When this is set to active, you will be able to see the contents of every container in the game.
-description=[/list]
-description=
-description=Mod compatibility includes:
-description=[list]
-description=    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295]Rename Containers mod[/url]
-description=    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2946364542]Search Containers mod[/url]
-description=[/list]
-description=
-description=Please note: in order to condense the content in these panels, duplicate items are not shown.
-description=
-description=[b]Modding is hard![/b] If you'd like to use parts of this code to understand how to mod for yourself please feel free to - just make sure you credit this mod with a link in your mod description if you end up publishing any of it.
-tags=Build 41;Interface;Misc;Multiplayer
+description=Hover over any square in the world to see the contents of its containers displayed in a panel.
+description=
+description=Simply toggle the 'hover to show contents' tickbox on any container inventory to activate its effect.
+description=
+description=[hr][/hr]
+description=[b]Instructions:[/b]
+description=[list]
+description=    [*]For those that like to keep the contents of new containers a surprise, this feature can be 'opted in' on an individual basis!
+description=
+description=    [*]For those that would prefer to harness an all-seeing power, there is a tickbox on the player's inventory that acts as an 'override'. When this is set to active, you will be able to see the contents of every container in the game.
+description=[/list]
+description=
+description=Mod compatibility includes:
+description=[list]
+description=    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295]Rename Containers mod[/url]
+description=    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2946364542]Search Containers mod[/url]
+description=[/list]
+description=
+description=Please note: in order to condense the content in these panels, duplicate items are not shown.
+description=
+description=[b]Modding is hard![/b] If you'd like to use parts of this code to understand how to mod for yourself please feel free to - just make sure you credit this mod with a link in your mod description if you end up publishing any of it.
+tags=Build 41;Build 42;Interface;Misc;Multiplayer
 visibility=public
